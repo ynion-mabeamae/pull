@@ -20,7 +20,7 @@ def display_menu():
             case 4:
                 print("\n2NE1, BLACKPINK, BABYMONSTER, IZNA, BIGBANG, NEWJEANS")
             case 5:
-                print("\nSky Blue, Blue")
+                print("\nSky Blue, Blue, Red, Green")
             case 6:
                 print("\nExiting the menu.")
                 return
