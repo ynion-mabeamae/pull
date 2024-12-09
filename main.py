@@ -14,9 +14,9 @@ def display_main_menu():
 
         match choice:
             case 1:
-                ynion.display_menu()
-            case 2:
                 pass
+            case 2:
+                ynion.display_menu()
             case 3:
                 pass
             case 4:
