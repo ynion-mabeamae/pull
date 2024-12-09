@@ -18,7 +18,7 @@ def display_menu():
             case 3:
                 print("\nHarry Potter, Lighter and Princess, Stranger Things")
             case 4:
-                print("\n2NE1, BLACKPINK, BABYMONSTER, IZNA, BIGBANG, NEWJEANS")
+                print("\n2NE1, BLACKPINK, BABYMONSTER, IZNA, BIGBANG, NEWJEANS, TREASURE")
             case 5:
                 print("\nSky Blue, Blue, Violet")
             case 6:
