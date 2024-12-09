@@ -9,7 +9,7 @@ def display_menu():
         print("6. Comment from Citron")
         print("7. Exit")
         
-        choice = int(input("Enter your choice:"))
+        choice = int(input("Enter your choice: "))
 
         match choice:
             case 1:
