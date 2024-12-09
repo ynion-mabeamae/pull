@@ -1,26 +1,25 @@
 def display_menu():
     while True:
-        print("\nGreetings! My names is Ma. Bea Mae Ynion")
+        print("\nHello! I'm Ma. Bea Mae Ynion")
         print("1. Basic Info")
         print("2. Goals")
-        print("3. Favorite Movies")
-        print("4. Favorite Kpop Groups")
-        print("5. Favorite Color")
-        print("6. Exit")
+        print("3. Comments")
+        print("4. Exit")
         
         choice = int(input("Enter your choice:"))
 
         match choice:
             case 1:
-                print("\nBasic Info: I am a web developer with a passion for web development.")
+                print("\nDate of Birth : July 29, 2004")
+                print("\nAge : 20")
             case 2:
                 print("\nGoals: To learn more about programming languages and improve my problem-solving skills.")
             case 3:
-                print("\nHarry Potter, Lighter and Princess, Stranger Things")
+                print("\nComments")
+                #TODO DELIMA
+                #TODO RELENTE
+                #TODO QUIAMBAO
+                #TODO CITRON
             case 4:
-                print("\n2NE1, BLACKPINK, BABYMONSTER, IZNA, BIGBANG, NEWJEANS, TREASURE, KATSEYE")
-            case 5:
-                print("\nSky Blue, Blue, Violet")
-            case 6:
                 print("\nExiting the menu.")
                 return
