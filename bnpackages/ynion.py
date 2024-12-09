@@ -3,10 +3,11 @@ def display_menu():
         print("\nGreetings! My names is Ma. Bea Mae Ynion")
         print("1. Basic Info")
         print("2. Goals")
-        print("3. Favorite Movies")
-        print("4. Favorite Kpop Groups")
-        print("5. Favorite Color")
-        print("6. Exit")
+        print("3. Comment from Delima")
+        print("4. Comment from Relente")
+        print("5. Comment from Quiambao")
+        print("6. Comment from Citron")
+        print("7. Exit")
         
         choice = int(input("Enter your choice:"))
 
