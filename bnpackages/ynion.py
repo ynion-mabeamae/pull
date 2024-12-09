@@ -23,7 +23,7 @@ def display_menu():
             case 5:
                 print("\nSky Blue, Blue, Red, Green")
             case 6:
-                print("\nI can't live without you.")
+                print("\nI can't live without you. Forever")
             case 7:
                 print("\nExiting the menu.")
                 return
