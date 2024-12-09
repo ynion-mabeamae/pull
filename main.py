@@ -3,8 +3,8 @@ from bnpackages import ynion
 def display_main_menu():
     while True:
         print("\n--- Main Menu ---")
-        print("1. Ynion")
-        print("2. Delima")
+        print("1. Delima")
+        print("2. Ynion")
         print("3. Relente")
         print("4. Quiambao")
         print("5. Citron")
